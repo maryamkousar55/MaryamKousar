@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="text_below_title">Create your new account and exploring medicine now!</string>
+    <string name="welcome_text">Sign In to start buying and exploring medicine now!</string>
+
+</resources>
